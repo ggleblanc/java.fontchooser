@@ -1,8 +1,8 @@
 java.fontchooser
 ================
 
-Java Font Chooser
------------------
+Java Swing Font Chooser
+-----------------------
 
 I modeled my font chooser after the font chooser in Windows XP 
 Notepad. I couldn’t do exactly what the Notepad developers did, 
