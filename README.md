@@ -15,7 +15,7 @@ Here’s an image of the Notepad font chooser.
 
 ![Notepad font chooser](NotepadFontChooser.png "Notepad font chooser")
 
-Here's an image of my Jaca font chooser.
+Here's an image of my Java font chooser.
 
 ![Java font chooser](JavaFontChooser.png "Java font chooser")
 
